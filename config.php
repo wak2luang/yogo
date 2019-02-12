@@ -1,46 +1,34 @@
 <?php
-// urutkan config nya kaya contoh dibawah akun ke 2/3 jg sama !!
-
+// urutkan config nya kaya contoh dibawah 
+// akun ke 2/3 jg sama !!
 // config
 $config = [
-
-  "imei" => [
+"imei" => [
 // akun ke 1
 "xxxxxxx",
 // akun ke 2
-
 // akun ke 3
-
-
 ],
-  "sign" => [
+
+"sign" => [
 // akun ke 1
 "xxxxxxx", 
 // akun ke 2
-
 // akun ke 3
-
-
 ],
-  "token" => [
+  
+"token" => [
 // akun ke 1
 "xxxxxxxx", 
 // akun ke 2
-
 // akun ke 3
-
-
 ],
-  "uuid" => [
+
+"uuid" => [
 // akun ke 1
 "xxxxxxxx", 
 // akun ke 2
-
 // akun ke 3
-
-
 ],
-
-  ];
-
+];
 ?>
